@@ -1,0 +1,15 @@
+Dambar Pun:
+  name        : "Dambar Pun"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dambar1111@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dambar08"
+      url: "https://github.com/onlinegrave"
